@@ -1,0 +1,3 @@
+[submodule "Bayesian-book"]
+	path = Bayesian-book
+	url = https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.git
